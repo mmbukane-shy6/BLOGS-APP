@@ -8,23 +8,23 @@ SHEILA EGEIDZA
 
 ### DESCRIPTION
 
-*Blogapp is a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, it has a feature that displays random quotes to inspire your users.
+* Blogapp is a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, it has a feature that displays random quotes to inspire your users.
 
 ### SETUP
 
-*Clone this repo to your desktop
+* Clone this repo to your desktop
 
-*run this in your terminal "git remove set-url" if you wish to have it 
+* run this in your terminal "git remove set-url" if you wish to have it 
 
-*into your repository
+* into your repository
 
-*create a directory for this project
+* create a directory for this project
 
-*run "pip install" in your terminal to install python packages and "pip 
+* run "pip install" in your terminal to install python packages and "pip 
 
-*update" to update the packages.
+* update" to update the packages.
 
-*run "atom ." in you terminal
+* run "atom ." in you terminal
 
 ### BUGS
 

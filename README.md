@@ -1,7 +1,5 @@
 ## BLOGS-APP
 
-Its an application that creates posts and displays quotes randomly
-
 ### AUTHOR 
 
 SHEILA EGEIDZA
